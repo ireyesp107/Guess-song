@@ -1,10 +1,5 @@
 # Command Terminal Web App Assignment
 
-Team Members:
-Bahar Birsel (bbirsel) & Isaias Reyes (ireyespa) Amaris Grondin
-Amaris Grondin (amarisg25) & Can Tulpar(ctulpar)
-Estimated Time: _25 hours_
-
 
 Link to repository:
 
@@ -18,7 +13,7 @@ Link to repository:
 
 
 
-NOTE: we have to be running the server from sprint 2 for the testing to be working!
+NOTE: we have to be running the server called backendFinalProject
 
 ## Available Scripts
 
