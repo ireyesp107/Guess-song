@@ -1,0 +1,15 @@
+.login {
+    text-align: center;
+    background-color: rgb(35, 81, 112);
+    padding: 2%;
+    font-family: monospace;
+  }
+
+.login .registerButton{
+    text-align: center;
+    margin: 1%;
+    background-color: rgb(188, 206, 218);
+    padding: 0.05%;
+    font-family: monospace;
+    font-size: 50%;
+}

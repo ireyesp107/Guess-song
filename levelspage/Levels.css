@@ -1,0 +1,59 @@
+.levels-title {
+
+    text-align:top;
+    top:20px;
+    color: #ffc400;
+    margin-top: 100px;
+    margin-left: 100px;
+margin-right: 100px;
+ margin-bottom: 100px;
+    font-family: Verdana;
+    font-size: 25pt;
+    font-weight: bold;
+     background-color: rgba(110, 110, 161, 0.719);
+}
+
+
+.bar1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+    margin-right: 500px;
+  color: inherit;
+  text-decoration: inherit;
+  text-transform: uppercase;
+  outline: none;
+  font-weight: bold;
+  background-color: rgba(110, 110, 161, 0.719);
+   text-decoration: none; 
+   font-size: 30pt;
+      font-family: Verdana;
+  ;
+   
+  
+}
+
+.bar2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+    margin-right: 500px;
+  color: inherit;
+  text-decoration: inherit;
+  text-transform: uppercase;
+  outline: none;
+  font-weight: bold;
+  background-color: rgba(110, 110, 161, 0.719);
+   text-decoration: none; 
+   font-size: 30pt;
+      font-family: Verdana;
+  ;
+   
+  
+}
+
+#easy {
+   font-size: 10pt;
+}

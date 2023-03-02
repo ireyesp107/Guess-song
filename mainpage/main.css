@@ -1,0 +1,91 @@
+.scrollbox {
+  margin: auto;
+  margin-left: 615px;
+  margin-right: 140px;
+
+  width: 50%;
+  color: black;
+  font-family: monospace;
+  text-align: center;
+  background-color: #ffc400;
+  width: 200px;
+  height: 90px;
+  overflow: hidden;
+  overflow-y: auto;
+  border-style: outset;
+  border-color: black;
+}
+
+.box .song {
+  color: black;
+  margin-top: 150px;
+  margin-left: 150px;
+  margin-right: 150px;
+
+  background-color: rgba(110, 110, 161, 0.719);
+}
+
+span:hover {
+  background-color: rgba(39, 37, 122, 0.418);
+}
+
+.history-box {
+  background-color: rgb(0, 0, 0);
+  border-style: solid;
+  margin-top: 10px;
+  color: white;
+  font-family: monospace;
+  font-size: 12pt;
+  background-color: rgba(110, 110, 161, 0.719);
+}
+
+.history-box-WON {
+  background-color: rgb(30, 126, 70);
+  border-style: solid;
+  margin-top: 10px;
+  color: white;
+  font-family: monospace;
+  font-size: 12pt;
+}
+.history-box-LOSE {
+  background-color: rgb(125, 16, 12);
+  border-style: solid;
+  margin-top: 10px;
+  color: white;
+  font-family: monospace;
+  font-size: 12pt;
+}
+
+.history-box-invalid {
+  background-color: rgb(102, 102, 102);
+  border-style: solid;
+  margin-top: 10px;
+  color: white;
+  font-family: monospace;
+  font-size: 12pt;
+}
+
+.history {
+  padding: 10%;
+  margin: 0px 100px 1px 100px;
+  padding: 10%;
+  top: 10px;
+  height: 300px;
+
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.boxArea {
+  margin-left: auto;
+  margin-right: 140px;
+  margin-top: 400px;
+  margin-top: auto;
+}
+
+#auto {
+  margin-left: 300px;
+  margin-right: 140px;
+  margin-top: 400px;
+  margin-top: auto;
+}
